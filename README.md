@@ -12,7 +12,7 @@ A project to estimate how much money is saved based on your income and expenses.
 
 - Clone this repository to your local machine.  
   ```
-  git clone http://simstash.mat.tagmclarengroup.com/scm/ts/saving_estimator.git
+  git clone https://github.com/rex-87/saving_estimator.git
   ```
 
 ## Usage  
